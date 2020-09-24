@@ -1,2 +1,2 @@
 # pjheger
-This repository was my first repository used for a class at University
+This repository is where I will put JS stuff I am serious about.
